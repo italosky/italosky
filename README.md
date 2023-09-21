@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Italo Olivares</h1>
-<h3 align="center">I'm an aspiring software developer with a burning passion for software development and a strong determination to learn and grow in this exciting field. Collaboration is essential to me, and I value the power of teamwork. I believe that working with experienced developers will provide me with invaluable knowledge and help me become a more competent developer</h3>
+<h1>Hi 👋, I'm Italo Olivares</h1>
+<h4>I'm an aspiring software developer with a burning passion for software development and a strong determination to learn and grow in this exciting field. Collaboration is essential to me, and I value the power of teamwork. I believe that working with experienced developers will provide me with invaluable knowledge and help me become a more competent developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italosky&label=Profile%20views&color=0e75b6&style=flat" alt="italosky" /> </p>
 
